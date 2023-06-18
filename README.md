@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Priscilla Vianna 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-oliveira-493484a9/)
+[![Linkedin target="_blanc"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-oliveira-493484a9/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priscillaodev?igshid=ZDdkNTZiNTM=)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpris&show_icons=true&theme=radical)
